@@ -1,0 +1,52 @@
+body {
+    background-color: #ffffff;
+    font-family: arial,sans-serif;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+table, td, th {
+   /* border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;*/
+}
+
+th {
+
+    text-align: left;
+}
+
+label {
+
+    font-weight: bold;
+}
+
+
+
+form{
+    
+    background-color: #e0e0e0;
+    padding: 0px 0px 0px 50px; 
+    border: solid 2px gray;
+    margin: 80px 300px 300px 300px;
+    border-radius: 20px;
+    
+    
+}
+
+option{
+
+    height: 10px;
+}
+
+
+button {
+
+    margin: 0px 0px 0px 280px;
+    padding: 7px
+}
+
+.input-width{
+
+    width: 300px;
+}

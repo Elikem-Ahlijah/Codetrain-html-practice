@@ -1,0 +1,19 @@
+body {
+    background-color: teal;
+    margin: 0 0 0 80px;
+}
+img {
+    border: 1.5px solid goldenrod;
+    border-radius: 10px;
+    
+}
+
+#one {
+    color: maroon;
+    margin-left: -60px;
+    text-decoration: underline;
+}
+
+.two {
+    font-weight: bold;
+}
